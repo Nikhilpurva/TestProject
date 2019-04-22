@@ -1,5 +1,5 @@
 node {  
     stage('Build') { 
-        sh "pwd"
+        bat "dir"
     }
     }
