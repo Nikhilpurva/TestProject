@@ -5,4 +5,7 @@ node {
     stage('Test') {
         bat "dir"
     }
+    stage('Deploy') {
+        bat "dir"
+    }
     }
